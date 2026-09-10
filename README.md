@@ -40,6 +40,10 @@ Financial information was obtained from Canadian Tire Corporation annual reports
 
 The 2026 forecast represents an independent financial analysis prepared for educational and portfolio purposes and is based on historical trends and stated assumptions.
 
+## Dashboard Preview
+
+![Canadian Tire Financial Analysis Dashboard](Dashboard.png)
+
 ## Author
 
 Djabir Dauhoo  
